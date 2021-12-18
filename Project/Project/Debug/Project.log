@@ -1,0 +1,13 @@
+﻿  Kaynak.cpp
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(15,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(32,12): warning C4129: 's': tanınmayan karakter kaçış sırası
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(48,12): warning C4129: 's': tanınmayan karakter kaçış sırası
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(59,19): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(60,21): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(61,21): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(62,21): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(63,21): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(64,21): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(65,21): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\Public\pg_odev2\Project\Project\Kaynak.cpp(66,22): warning C4309: 'başlatılıyor': sabit değer kesildi
+  Project.vcxproj -> C:\Users\Public\pg_odev2\Project\Debug\Project.exe
